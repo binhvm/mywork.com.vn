@@ -1,0 +1,94 @@
+.dang-nhap-uv{
+	width: 1349px;
+}
+.body-dnuv{
+	width: 1349px;
+	height: 675px;
+	background-color: #25a0d5;
+}
+.body-dnuv .body-dnuv-c{
+	width: 940px;
+	height: 675px;
+	margin: auto;
+}
+.body-dnuv-c .body-dnuv-l{
+	width: 55%;
+	height: 625px;
+	margin-top: 50px;
+	float: left;
+}
+.body-dnuv-c .body-dnuv-l h1{
+	font: bold 40px roboto;
+	color: white;
+}
+.body-dnuv-c .body-dnuv-l h3{
+	font: 18px roboto;
+	color: white;
+}
+
+
+
+.body-dnuv-c .body-dnuv-r{
+	width: 40%;
+	height: 390px;
+	margin-top: 50px;
+	float: right;
+	border-radius: 3px;
+	background-color: white;
+}
+.body-dnuv-c .body-dnuv-r a img{
+	width: 100px;
+	display: table;
+	margin: 20px auto;
+}
+.body-dnuv-c .body-dnuv-r input{
+	width: 270px;
+	height: 18px;
+	border-radius: 3px;
+	border: solid 1px #efefef;
+	display: table;
+	margin: 20px auto;
+	padding: 10px;
+}
+.body-dnuv-c .body-dnuv-r #btn_dn{
+	width: 290px;
+	height: 38px;
+	background-color: #009ce0;
+	color: white;
+	border-radius: 3px;
+	border: none;
+}
+.body-dnuv-c .body-dnuv-r p{
+	text-align: center;
+	font: 15px roboto;
+	color: #888;
+}
+.body-dnuv-c .body-dnuv-r #btn_fb{
+	width: 290px;
+	height: 38px;
+	background-color: #4267b2;
+	color: white;
+	border-radius: 3px;
+	border: none;
+}
+
+
+.body-dnuv-c .body-dnuv-r1{
+	width: 40%;
+	height: 60px;
+	margin-top: 10px;
+	float: right;
+	border-radius: 3px;
+	background-color: white;
+}
+.body-dnuv-r1 p{
+	text-align: center;
+	line-height: 60px;
+	margin: 0px;
+}
+.body-dnuv-r1 p a{
+	color: #1790d4;
+}
+.body-dnuv-r1 p a:hover{
+	color: #337ab7;
+}

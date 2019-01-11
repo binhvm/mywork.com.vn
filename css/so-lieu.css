@@ -1,0 +1,32 @@
+/*Số liệu thống kê*/
+
+
+.solieu{
+	width: 1140px;
+	margin: 20px auto;
+}
+.solieu .solieu1{
+	width: 100%;
+	height: 105px;
+	background-color: #fc205b;
+	border-radius: 3px;
+}
+.solieu .container11{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	padding: 10px;
+	grid-gap: 10px;
+}
+.container11 .content11{
+	text-align: center;
+	line-height: 40px;
+	color: white;
+}
+.content11 h1{
+	margin: 0px;
+	font: 30px roboto;
+}
+.content11 h4{
+	margin: 10px 0px 10px 0px;
+	font: 14px roboto;
+}

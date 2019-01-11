@@ -1,0 +1,87 @@
+/*FOOTER*/
+.footer{
+	width: 1349px;
+	height: 540px;
+	background-color: #0080b7;
+}
+.footer .footer_c{
+	width: 1160px;
+	margin: auto;
+	height: 500px;
+}
+.footer_c .footer_l{
+	width: 63%;
+	float: left;
+	height: 480px;
+	color: white;
+}
+.footer_l h2{
+	margin: 0px;
+}
+.footer_l h3{
+	margin: 0px;
+}
+.footer_l h4{
+	margin: 0px;
+}
+
+
+
+
+
+.footer_c .footer_r{
+	width: 33%;
+	float: right;
+	height: 480px;
+}
+
+/*Giới thiệu*/
+.footer_r .gioi_thieu{
+	width: 100%;
+	height: 255px;
+	background-color: #0079ae;
+	margin-top: 30px;
+	border-radius: 3px;
+}
+.gioi_thieu .container12{
+	display: grid;
+	grid-template-columns: 1fr;
+	padding: 10px;
+	grid-gap: 10px;
+}
+.container12 .content12 a{
+	color: white;
+}
+
+
+/*Liên kết*/
+.lien_ket{
+	color: white;
+	margin-top: 20px;
+}
+.lien_ket ul{
+	list-style-type: none;
+}
+.fa{
+	padding: 10px;
+	color: white;
+}
+
+
+
+/*Liên kết ngoài*/
+.lk_ngoai{
+	width: 100%;
+	height: 50px;
+	background-color: #0077aa;
+}
+.lk_ngoai_c{
+	width: 1140px;
+	margin: auto;
+	height: 50px;
+	color: white;
+}
+.lk_ngoai_c a{
+	color: #bdd3d3;
+	line-height: 50px;
+}

@@ -1,0 +1,162 @@
+/*Bắt đầu trang đăng ký*/
+.dk_body{
+	width: 1349px;
+	height: 1000px;
+	background-color: #25a0d5;
+}
+.dk_body .dk_content{
+	width: 1140px;
+	height: 1000px;
+	margin: auto;
+}
+.dk_content .dk_content_l{
+	width: 38%;
+	height: 600px;
+	float: left;
+	margin-top: 50px;
+	color: white;
+}
+.dk_content_l h1{
+	font: bold 40px roboto;
+}
+.dk_content_l h3{
+	font: 18px roboto;
+}
+.dk_content .dk_content_r{
+	width: 60%;
+	height: 600px;
+	float: right;
+	border-radius: 3px;
+	background-color: white;
+	margin-top: 50px;
+}
+.dk_content_r .dk_content_r1 {
+	width: 90%;
+	height: 90%;
+	margin: 25px auto;
+}
+.dk_content_r .dk_content_r1 img{
+	display: table;
+	margin: 0px auto;
+}
+
+.dk_content_r1 .dk_content_r2 h4{
+	font: 14px roboto;
+	padding: 5px 16px;
+	margin: 0px;
+	color: #20a0ff;
+	border-bottom: solid 1px #bfcbd9;
+}
+.dk_content_r1 .dk_content_r3 h4{
+	color: #48576a;
+}
+.dk_content_r1 .dk_content_r3 p{
+	margin: 0px;
+	font: 12px/1.5 roboto;
+	color: red;
+}
+.dk_content_r1 .dk_content_r3 input{
+	width: 97%; 
+	height: 15px; 
+	border-radius: 3px; 
+	border: solid 1px #bfcbd9; 
+	padding: 10px;
+}
+
+
+.dk_content_r1 .dk_content_r4{
+	width: 100%;
+	height: 220px;
+}
+.dk_content_r4 .dk_content_r41{
+	width: 48%;
+	float: left;
+}
+.dk_content_r4 .dk_content_r41 h4{
+	color: #48576a;
+}
+.dk_content_r4 .dk_content_r41 p{
+	margin: 0px;
+	font: 12px/1.5 roboto;
+	color: red;
+}
+.dk_content_r4 .dk_content_r41 input{
+	width: 93%; 
+	height: 15px; 
+	border-radius: 3px; 
+	border: solid 1px #bfcbd9; 
+	padding: 10px;
+}
+
+
+
+
+.dk_content_r4 .dk_content_r42{
+	width: 48%;
+	float: right;
+}
+.dk_content_r4 .dk_content_r42 h4{
+	color: #48576a;
+}
+.dk_content_r4 .dk_content_r42 p{
+	margin: 0px;
+	font: 12px/1.5 roboto;
+	color: red;
+}
+.dk_content_r4 .dk_content_r42 input{
+	width: 93%; 
+	height: 15px; 
+	border-radius: 3px; 
+	border: solid 1px #bfcbd9; 
+	padding: 10px;
+}
+
+
+.dk_content_r5{
+	width: 100%;
+	height: 140px;
+}
+.dk_content_r5 p{
+	text-align: center;
+	margin: 0px;
+	font: 14px/3 roboto;
+}
+.dk_content_r5 p a{
+	color: #1790d4;
+}
+.dk_content_r5 p a:hover{
+	color: #337ab7;
+}
+.dk_content_r5 .dk_content_r51 input{
+	background-color: #009ce0; 
+	border-radius: 3px; 
+	border: none; 
+	color: white; 
+	width: 255px; 
+	height: 36px; 
+	display: table; 
+	margin: 0px auto;
+}
+
+
+
+.dk_content .dk_content_c{
+	width: 60%;
+	height: 60px;
+	float: right;
+	border-radius: 3px;
+	background-color: white;
+	margin-top: 10px;
+}
+.dk_content .dk_content_c p{
+	margin: 0px;
+	text-align: center;
+	line-height: 60px;
+}
+.dk_content .dk_content_c p a{
+	color: #1790d4;
+}
+.dk_content .dk_content_c p a:hover{
+	color: #337ab7;
+}
+/*Kết thúc trang đăng ký*/
